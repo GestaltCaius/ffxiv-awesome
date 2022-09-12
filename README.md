@@ -5,6 +5,8 @@ Final Fantasy XIV useful websites and tools list.
 
 ---
 
+# Crafting
+
 | Category | Name                                                                                                                  | Description                                      |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | Crafting | [FFXIV Crafting](https://ffxivcrafting.com/equipment)                                                                 | Optimized gear for crafting and gathering jobs   |
@@ -16,5 +18,14 @@ Final Fantasy XIV useful websites and tools list.
 | Crafting | [Ishgardian restoration](https://na.finalfantasyxiv.com/lodestone/ishgardian_restoration/)                            | Fastest way of leveling up your crafting jobs    |
 | Crafting | [FFXIV TeamCraft Ishgardian restoration guides](https://guides.ffxivteamcraft.com/guide/ishgardian-restoration-guide) | Ishgardian restoration guides                    |
 | Crafting | [Studium Deliveries](https://ffxiv.consolegameswiki.com/wiki/Studium_Deliveries)                                      | Endwalker CD                                     |
+# Items
+
+| Category | Name                                                                                                                  | Description                                      |
+| -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | Business | [Universalis](https://universalis.app/)                                                                               | All worlds and data centers market board prices  |
 | Items    | [GarlandTools](https://www.garlandtools.org/db/)                                                                      | Where to find or buy items                        |
+
+# Tools
+| Category | Name                                                                                                                  | Description                                      |
+| -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Business | [FF XIV Hunt](https://ffxivhunt.com/hunt_b_arr.php)                                                                               | Weekly Grand Company Hunt (Aetheryte Tickets)  |
