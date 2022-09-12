@@ -17,3 +17,4 @@ Final Fantasy XIV useful websites and tools list.
 | Crafting | [FFXIV TeamCraft Ishgardian restoration guides](https://guides.ffxivteamcraft.com/guide/ishgardian-restoration-guide) | Ishgardian restoration guides                    |
 | Crafting | [Studium Deliveries](https://ffxiv.consolegameswiki.com/wiki/Studium_Deliveries)                                      | Endwalker CD                                     |
 | Business | [Universalis](https://universalis.app/)                                                                               | All worlds and data centers market board prices  |
+| Items    | [GarlandTools](https://www.garlandtools.org/db/)                                                                      | Where to find or buy items                        |
