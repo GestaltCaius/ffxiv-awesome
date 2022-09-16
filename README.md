@@ -24,6 +24,8 @@ Final Fantasy XIV useful websites and tools list.
 | -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | Business | [Universalis](https://universalis.app/)                                                                               | All worlds and data centers market board prices  |
 | Items    | [GarlandTools](https://www.garlandtools.org/db/)                                                                      | Where to find or buy items                        |
+| Items    | [TeamCraft Currency Spending](https://ffxivteamcraft.com/currency-spending)                                           | What to buy with tomestones and stuff          |
+
 
 # Tools
 | Category | Name                                                                                                                  | Description                                      |
