@@ -28,4 +28,6 @@ Final Fantasy XIV useful websites and tools list.
 # Tools
 | Category | Name                                                                                                                  | Description                                      |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Business | [FF XIV Hunt](https://ffxivhunt.com/hunt_b_arr.php)                                                                               | Weekly Grand Company Hunt (Aetheryte Tickets)  |
+| Business | [FF XIV Hunt](https://ffxivhunt.com/hunt_b_arr.php)                                                                   | Weekly Grand Company Hunt (Aetheryte Tickets)  |
+| Content Unlocking | [FF XIV Todo](https://xivtodo.com/)                                                                          | List of all FFXIV content and if you've unlocked it or not (synced with lodestone data) |
+
