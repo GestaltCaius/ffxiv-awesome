@@ -33,3 +33,11 @@ Final Fantasy XIV useful websites and tools list.
 | Business | [FF XIV Hunt](https://ffxivhunt.com/hunt_b_arr.php)                                                                   | Weekly Grand Company Hunt (Aetheryte Tickets)  |
 | Content Unlocking | [FF XIV Todo](https://xivtodo.com/)                                                                          | List of all FFXIV content and if you've unlocked it or not (synced with lodestone data) |
 
+# Raid potions and food
+
+| Category | Name |
+| -- | -- |
+| Food | Sunset carrot nibbles |
+| Food | Garlean pizza |
+| Food | Carrot pudding |
+| Potion | Grade 7 Tincture of Strenght / Dexterity / Intelligence / Mind |
